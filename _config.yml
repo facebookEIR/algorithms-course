@@ -18,7 +18,7 @@ tagline: 'Analysis of Algorithms'
 description: 'North Carolina A&T University, Spring 2022'
 author: Luis A. Perez
 baseurl: '/algorithms-course' # the subpath of your site, e.g. /blog
-url: ' https://facebookeir.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://facebookeir.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 ga_tracking: G-87Q4Z33975
 
